@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) deployed using Vercel [here](https://next-js-test-app-ebon.vercel.app/).
+This is a [Next.js 15](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and deployed using Vercel [here](https://next-js-test-app-ebon.vercel.app/).
 
 ## Getting Started
 

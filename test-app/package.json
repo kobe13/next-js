@@ -9,7 +9,7 @@
     "lint": "next lint",
     "format": "prettier --write **/*.{mjs,js,ts,tsx}",
     "typecheck": "tsc --noEmit",
-    "cypress:open-component": "cypress open --component",
+    "cypress:open": "cypress open",
     "cypress:run-component": "cypress run --component",
     "ci": "npm run typecheck && npm run lint && npm run cypress:run-component"
   },
